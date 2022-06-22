@@ -1,0 +1,2 @@
+# Qrchat
+Whatsapp automático 
